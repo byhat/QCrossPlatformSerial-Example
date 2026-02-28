@@ -1,5 +1,8 @@
 <RCC>
     <qresource prefix="/">
-        <file>main.qml</file>  <!-- Убедитесь, что файл main.qml существует -->
+        <file>main.qml</file>
+        <file>../android/images/icon.png</file>
+        <file>../android/images/splash_album.png</file>
+        <file>../android/images/splash_portrait.png</file>
     </qresource>
 </RCC>
