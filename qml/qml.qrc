@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>  <!-- Убедитесь, что файл main.qml существует -->
+    </qresource>
+</RCC>
