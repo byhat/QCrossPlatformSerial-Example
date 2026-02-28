@@ -121,7 +121,7 @@ QCrossPlatformSerial-Example/
 1. **Clone the repository with submodules:**
 
 ```bash
-git clone --recursive <repository-url>
+git clone --recursive https://github.com/byhat/QCrossPlatformSerial-Example.git
 cd QCrossPlatformSerial-Example
 ```
 
